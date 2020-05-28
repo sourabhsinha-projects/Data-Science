@@ -4,4 +4,4 @@ The attached data file contains a sample of Lending Club loans and various attri
 
 2. Lending Club loans are either ‘Fully Paid’ or’ Charged Off’ based on borrower payment history. Can you analyze the loans in the file which are ‘Charged Off’ and draw insights based on both loan and borrower attributes?
 
-3. Machine Learnign Model predicting whether a borrower is a good or bad borrower
+3. Machine Learnign Model (Logistic Regression) predicting whether a borrower is a reliable or risky borrower from investment point of view
